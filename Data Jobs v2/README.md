@@ -1,0 +1,47 @@
+# Data Jobs Dashboard w/ Power BI
+
+![Dashboard Page 1](/Images/Project%201%20Page%201.png)
+
+[Download Interactive dashboard here]
+(https://github.com/adilbinkhalid2209-beep/Power-BI-Dashboards/raw/main/Data_Jobs_Dashboard.pbix)
+
+## Introduction
+
+Navigating the data job market can feel like a maze with information scattered everywhere. This dashboard (V2.0) is designed specifically for **Job Seekers, Job Transitioners, and Job Swappers** to cut through the clutter! Using a real-world dataset of 2024 data science job postings - rich with details on titles, salaries, and locations - this project offers a streamlined, single-page interface to quickly explore curcial market trends and compensation insights.
+
+## Skills Showcased
+
+- **Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
+
+- **Implicit Measures:** Formulated measures to derive key insights and KPIs like 'Median Yearly Salary' and 'Job Count'.
+
+- **Core Charts:** Utilized **Column, Bar, Line,** and **Area Charts** to compare job counts and track trends over time.
+
+- **Geopastial Analysis:** Leveraged **Map Charts** to visualize the global distribution of jobs.
+
+- **KPI Indicator and Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
+
+- **Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart thypes to best tell the data story.
+
+- **Interactive Reporting:**
+  - **Slicers:** To dynamically filter the report by Job Title.
+  - **Buttons & Bookmarks:** To create a seamlesss navigation experience.
+  - **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
+
+## Dashboard Overview
+
+### Page 1: High-Level Market View
+
+![Dashboard Page 1](/Images/Project%201%20Page%201.png)
+
+This is your mission control for the data job market. It showcases key KPIs like Total job count, median salaries, and top job titles to give you quick understanding of what's happening in the job market at a glance.
+
+### Page 2: Job Title Drill Through
+
+![Dashboard Page 2](/Images/Project%201%20Page%202.png)
+
+This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a gloabal map of job locations.
+
+### Conclusion
+
+This dashboard slowcases how Power BI can transform raw job posting data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make informed decisions about their career paths.
