@@ -12,3 +12,17 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 [Download Interactive dashboard here]
 (https://github.com/adilbinkhalid2209-beep/Power-BI-Dashboards/raw/main/Data_Jobs_Dashboard.pbix)
+
+**Key Power BI Skills Utilized:**
+- Dashboard Layout & Design
+- Power Query (ETL & Data Shaping)
+- Basic Data Modeling (Table Relationships)
+- Implicit Measures & Standard Aggregations
+- Core Charts (Bar, Line, Area, Column)
+- Map Visualizations for Geospatial Data
+- KPI cards & Detailed Data Tables
+- Interactive Slicers for Filtering
+- Buttons & Bookmarks for Page Navigation
+- Drill-Through Functionality
+
+[**View Full Project 1 Details (README)**](/Data%20Jobs%20v1/README.md)
