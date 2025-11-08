@@ -1,6 +1,6 @@
 # Data Jobs Dashboard w/ Power BI
 
-![Dashboard Page 1](/Images/Project%201%20Page%201.png)
+![Dashboard Page 1](/Images/Project%202%20Page%201.png)
 
 [Download Interactive dashboard here]
 (https://github.com/adilbinkhalid2209-beep/Power-BI-Dashboards/raw/main/Data_Jobs_Dashboard.pbix)
